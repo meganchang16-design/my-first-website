@@ -6,29 +6,37 @@
     <link rel="stylesheet" href="style.css">
   </head>
 
-  <body>
+    <body>
     <div class="card">
+      <nav>
+        <a href="#about">关于我</a>
+        <a href="#interests">我的兴趣</a>
+        <a href="#projects">我的作品</a>
+        <a href="#links">我的链接</a>
+      </nav>
               <img class="profile-image" src="images/profile.png" alt="Megan 的头像">
       <h1>你好，我是 Megan</h1>
 
       <p>这是我的第一个个人主页。我正在学习 VS Code、Git 和 GitHub。</p>
 
-      <h2>关于我</h2>
+     <h2 id="about">关于我</h2>
       <p>我对设计、科技和创造新的东西感兴趣。</p>
 
-      <h2>我的兴趣</h2>
+      <h2 id="interests">我的兴趣</h2>
       <ul>
         <li>学习网页制作</li>
         <li>探索 AI 工具</li>
         <li>做自己的小项目</li>
       </ul>
-      <h2>我的作品</h2>
+    <section id="projects">
+  <h2>我的作品</h2>
 
-      <div class="project">
-        <h3>我的第一个个人主页</h3>
-        <p>这是我用 HTML、CSS、Git 和 GitHub Pages 发布的第一个网页项目。</p>
-      </div>
-            <h2>我的链接</h2>
+  <div class="project">
+    <h3>我的第一个个人主页</h3>
+    <p>这是我用 HTML、CSS、Git 和 GitHub Pages 发布的第一个网页项目。</p>
+  </div>
+</section>
+           <h2 id="links">我的链接</h2>
       <p>欢迎查看我的 GitHub 项目。</p>
       <a class="button" href="https://github.com/meganchang16-design" target="_blank">访问我的 GitHub</a>
       <button class="button" onclick="showMessage()">点击显示欢迎语</button>
