@@ -26,3 +26,4 @@ https://meganchang16-design.github.io/my-first-website/
 我正在学习如何查看 Git 修改内容。
 这是我第一次练习 Git 分支。
 这是我用来练习 GitHub 分支对比的修改。
+这是用来练习 git revert 的内容。
