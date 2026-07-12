@@ -22,3 +22,4 @@
 ## 在线预览
 
 https://meganchang16-design.github.io/my-first-website/
+这是我学习 GitHub 工作流程的练习项目。
