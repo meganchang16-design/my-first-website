@@ -23,3 +23,4 @@
 
 https://meganchang16-design.github.io/my-first-website/
 这是我学习 GitHub 工作流程的练习项目。
+我正在学习如何查看 Git 修改内容。
